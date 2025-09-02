@@ -1,3 +1,16 @@
+# 📖 [Read this article on Medium](https://medium.com/@chanupahansajarcg2003/comparative-analysis-of-intel-i7-and-ryzen-3-processor-architectures-25880e18c385)
+
+---
+
+## ✍️ Authors  
+
+**S.V.C.H. Vithanage** *(Undergraduate BSc Hons Eng)*  
+**S.C. Suraweera** *(Undergraduate BSc Hons Eng)*  
+**G.K.M.S. Imesh** *(Undergraduate BSc Hons Eng)*  
+**B.A.S.K. Chamuditha** *(Undergraduate BSc Hons Eng)*  
+
+---
+
 # Intel i7 vs AMD Ryzen 3: A Technical Comparison (2025 Guide)
 
 ## 1. Introduction  
@@ -34,7 +47,7 @@ This technical analysis compares two distinct processor architectures — **Inte
 
 | **Feature**            | **AMD Ryzen 3**              | **Intel Core i7**            | **Superior** | **Reason** |
 |-----------------------|---------------------------|---------------------------|-------------|-----------|
-| **Memory Type**       | DDR5                     | DDR5, DDR4                | –           | Both offer high speed, great bandwidth, and low power consumption. |
+| **Memory Type**       | DDR5                     | DDR5, DDR4                | –           | Both offer high speed, great bandwidth and low power consumption. |
 | **Max Memory Speed**  | DDR5 – 5200 MT/s          | DDR5 – 5600 MT/s <br> DDR4 – 3200 MT/s | Intel i7 | Intel officially supports higher DDR5 speeds and gives the option to use DDR4. |
 | **Channels**          | Dual Channel              | Dual Channel              | –           | Dual channel memory increases bandwidth and improves responsiveness. |
 | **Cache Hierarchy**   | L1: 64 KB/core <br> L2: 1 MB/core <br> L3: 8 MB shared | L1: 80 KB/core <br> L2: 2 MB/core (P-core), 4 MB/module (E-core) <br> L3: 33 MB shared | Intel i7 | Larger L2 and L3 caches reduce latency and improve performance. |
@@ -70,10 +83,3 @@ The **superior choice depends largely on the target workload**:
 - AMD Official Ryzen Processor Documentation  
 - Intel 12th & 13th Gen Architecture Overview  
 - AnandTech CPU Reviews  
-
-Co Authors -
-
-S.V.C.H.Vithanage (Undergraduate BSc Hons Eng)
-S.C.Suraweera (Undergraduate BSc Hons Eng)
-G.K.M.S.Imesh (Undergraduate BSc Hons Eng)
-B.A.S.K.Chamuditha (Undergraduate BSc Hons Eng)
